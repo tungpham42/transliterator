@@ -1,5 +1,5 @@
 {
-    "name": "fof/transliterator",
+    "name": "tungpham42/transliterator",
     "description": "Transliterate non-ASCII characters in discussion URL",
     "keywords": [
         "flarum"
@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "flarum/core": "^0.1.0-beta.16",
+        "flarum/core": "^1.8",
         "behat/transliterator": "^1.3"
     },
     "suggest": {
